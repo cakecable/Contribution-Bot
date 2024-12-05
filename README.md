@@ -54,9 +54,9 @@ Now the Script Will Execute..
   - Backup Your Code To Another Place
   - Make Sure Repository Size Is Not Too Big
    
-[*]If You Don't See Your Commits/Contributions in Github Site:
-   [-] Go Into test Directory inside Github-bot directory
-   [-] Push the Code With ```git push -u --force origin master```
+- If You Don't See Your Commits/Contributions in Github Site:
+	- Go Into test Directory inside Github-Commit directory
+	- Push the Code With ```git push -u --force origin master```
 
 
- Github-Commit Was Created By cake
+ Github-Commit was created by cake
